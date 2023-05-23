@@ -1,4 +1,4 @@
-![Header](github-header-image(1).png)
+![Header](./github-header-image(1).png)
 
 # About Me:
 Hey, nice to meet you!<br><br>- I'm  a student at the Federal Rural University of Rio de Janeiro.
