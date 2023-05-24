@@ -1,8 +1,8 @@
 # A little about myself
 Hey, my name is Camilli Fidelis, nice to meet you!<br>
-- student of Information Systems at UFRRJ;<br>
-- I'm an intern at Signal Jr, acting as a project advisor;<br>
-- Currently studying Java and JavaScript;<br>
+👩🏼‍💻 Student of Information Systems at UFRRJ;<br>
+🖥️ I'm an intern at Signal Jr, acting as a project advisor;<br>
+💻 Currently studying Java and JavaScript;<br>
 
 
 
