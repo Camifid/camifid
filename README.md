@@ -5,7 +5,9 @@ Hey, my name is Camilli Fidelis, nice to meet you!<br><br>
 🖥️ I'm an intern at Signal Jr, acting as a project advisor;<br>
 
 
-## Socials
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilli-fidelis-40287b228) 
 
 ## Technologies
@@ -14,9 +16,3 @@ Hey, my name is Camilli Fidelis, nice to meet you!<br><br>
 [![](https://visitcount.itsvg.in/api?id=camifid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camifid&label=Profile%20views&color=b40e88&style=flat" alt="camifid" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camifid&label=Profile%20views&color=dc18a8&style=flat" alt="camifid" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
