@@ -14,3 +14,4 @@ Hey, my name is Camilli Fidelis, nice to meet you!<br><br>
 
 <br>[![](https://visitcount.itsvg.in/api?id=camifid&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>[![](https://visitcount.itsvg.in/api?id=camifid&label=Profile%20Views&color=10&icon=7&pretty=false)](https://visitcount.itsvg.in)
+<br>[![](https://visitcount.itsvg.in/api?id=camifid&label=Profile%20Views&color=10&icon=3&pretty=false)](https://visitcount.itsvg.in)
