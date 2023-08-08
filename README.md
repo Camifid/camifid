@@ -15,4 +15,3 @@ Hey, my name is Camilli Fidelis, nice to meet you!<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camifid&show_icons=true&title_color=831843&text_color=050505&bg_color=fbcfe8&hide_border=true&locale=en&layout=compact" alt="camifid" /></p>
 
 <br>[![](https://visitcount.itsvg.in/api?id=camifid&label=Profile%20Views&color=10&icon=3&pretty=false)](https://visitcount.itsvg.in)
-<br>[![](https://visitcount.itsvg.in/api?id=camifid&label=Profile%20Views&color=11&icon=3&pretty=false)](https://visitcount.itsvg.in)
