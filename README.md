@@ -11,9 +11,11 @@ Hey, my name is Camilli Fidelis!<br><br>
 <br>
 <br>
 
+<h1> Technologies</h1>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,html,css,js,java,gmail,linkedin,mysql,react,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,java,c,gmail,linkedin,mysql,react,vscode,windows" />
   </a>
 </p>
 <br>
