@@ -3,8 +3,10 @@ Hey, my name is Camilli Fidelis!<br><br>
 👩🏼‍💻 Student of Information Systems at UFRRJ;<br>
 🖥️ I'm an intern at Signal Jr, acting as a project advisor;<br>
 
-
-## Connect with me
+<div align="center">
+  <a href="mailto:cfidelisg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilli-fidelis-40287b228) 
 <br> <br>
 
