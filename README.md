@@ -3,7 +3,7 @@ Hey, my name is Camilli Fidelis!<br><br>
 
 👩🏼‍💻 Student of Information Systems at UFRRJ;<br>
 🖥️ I'm an intern at Signal Jr, acting as a project advisor;<br>
-<br> <br>
+<br> 
 
 <div align="center">
   <a href="mailto:cfidelisg@gmail.com">
@@ -11,9 +11,7 @@ Hey, my name is Camilli Fidelis!<br><br>
   </a>
 <a href="https://www.linkedin.com/in/camilli-fidelis-40287b228" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-</a>
-    
-<br> <br>
+</a> <br> <br>
 
 <h3 align="center"> Languages, Frameworks and Tools </h3> <br>
 
