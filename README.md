@@ -11,7 +11,7 @@ Hey, my name is Camilli Fidelis!<br><br>
 <br>
 <br>
 
-<h3> Technologies</h3>
+<h3 align="center"> Technologies </h3> <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
