@@ -1,5 +1,5 @@
 # A little about myself
-Hey, my name is Camilli Fidelis, nice to meet you!<br><br>
+Hey, my name is Camilli Fidelis!<br><br>
   Know me:<br>
 👩🏼‍💻 Student of Information Systems at UFRRJ;<br>
 🖥️ I'm an intern at Signal Jr, acting as a project advisor;<br>
