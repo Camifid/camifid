@@ -8,7 +8,7 @@ Hey, my name is Camilli Fidelis!<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilli-fidelis-40287b228) 
 <br> <br>
 
-<h3 align="center"> Technologies </h3> <br>
+<h3 align="center"> Languages, Frameworks and Tools </h3> <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
