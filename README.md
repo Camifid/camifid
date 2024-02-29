@@ -12,7 +12,7 @@ Hey, my name is Camilli Fidelis!<br><br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,java,c,gmail,linkedin,mysql,react,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,java,c,mysql,react,vscode,windows" />
   </a>
 </p> <br> <br>
 
