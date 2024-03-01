@@ -17,7 +17,7 @@ Hello World, I'm Camilli Fidelis, be very welcome! <br> <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,java,c,mysql,react,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,java,c,react" />
   </a>
 </p> <br> <br>
 
