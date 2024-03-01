@@ -1,8 +1,7 @@
 
 <h3 align="center"> Hello World, I'm Camilli Fidelis, be very welcome! </h3> <br> <br>
 
-👩🏼‍💻 Student of Information Systems at UFRRJ;<br>
-🖥️ I'm an intern at Signal Jr, acting as a project advisor;<br>
+Currently, I am a student on the Bachelor's degree in Information Systems at UFRRJ, in Seropédica, Rio de Janeiro. I have a great interest in front-end development, but I also like to explore the back-end. I'm focused on improving my JavaScript skills to pursue my professional path. Previously, I worked as a project advisor at Signal Jr., a junior company at UFRRJ, where I developed skills in teamwork, organization and leadership, in addition to gaining a broader understanding of the software development stages. This experience only increased my enthusiasm for the field.
 <br> 
 
 <div align="center">
