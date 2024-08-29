@@ -16,7 +16,7 @@ Currently, I am a student on the Bachelor's degree in Information Systems at UFR
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,java,c,react" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,java,aws,docker,cloud" />
   </a>
 </p> <br> <br>
 
